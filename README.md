@@ -1,6 +1,6 @@
 # TUM_PST_Face-Recognition
 
-This is the demo code for TUM course PST, within the Chair of Photogrammety and Remote Sensing.
+This is the demo codes for TUM course PST, within the Chair of Photogrammety and Remote Sensing.
 
 Environment: Python 3.6 + Ubuntu 16.04
 
